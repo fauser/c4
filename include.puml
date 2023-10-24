@@ -1,7 +1,3 @@
-[A]
-note Right of A
-  Yalla
-end note
-[B]
-[C]
+[A] --> [B]
+[C] --> [D]
 
