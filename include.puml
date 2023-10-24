@@ -1,3 +1,11 @@
+[A]
+note Right of A
+  Yalla
+end note
+
+
 [A] --> [B]
 [C] --> [D]
+
+
 
